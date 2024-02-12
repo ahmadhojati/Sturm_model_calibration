@@ -1,5 +1,5 @@
 # Sturm_model_calibration
-Here is the python code for updating Sturm's snow density model coefficients
+Here is the python code for updating Sturm's snow density model coefficients based on SNOTEL density data from 2014 to 2023
 
 # Snow Density Prediction with Sturm's Model
 
